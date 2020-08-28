@@ -1,0 +1,26 @@
+header{
+    background-color:lightcoral;
+}
+.navbar-nav .nav-item .nav-link{
+    color: white;
+    text-align: center;
+}
+.navbar-nav .nav-item .nav-link:hover,.navbar-nav .nav-item .nav-link:focus{
+    color:lemonchiffon;
+}
+.navbar .navbar-brand{
+    font-size: 30px;
+}
+.navbar-light .navbar-toggler{
+    border-color: rgb(255,255,255);
+    color: white;
+}
+
+.row >div > div {
+    border:1px solid lightcoral;
+    background-color:lightyellow;
+    height: 700px;
+    padding: 20px;
+    width: 95%;
+    margin-top:20px;
+}
